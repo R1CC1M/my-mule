@@ -1,6 +1,5 @@
 import { Box } from "@chakra-ui/react"
-import { type } from "os"
-import { ReactElement, ReactNode } from "react"
+import { ReactNode } from "react"
 
 type Props = {
     children: ReactNode
