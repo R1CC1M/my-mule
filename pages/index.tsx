@@ -15,7 +15,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>About</title>
+        <title>About | Sticker Mule</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link
           href="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.css"
